@@ -7,7 +7,7 @@ package gui;
 
 /**
  *
- * @author Hp-G42
+ * @author angel
  */
 public class MainForm extends javax.swing.JFrame {
 

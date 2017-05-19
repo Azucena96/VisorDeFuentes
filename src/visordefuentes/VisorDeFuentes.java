@@ -9,7 +9,8 @@ import gui.MainForm;
 
 /**
  *
- * @author 
+ * @author angel
+ * 
  */
 public class VisorDeFuentes {
 
